@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# Ranorex Studio 10.2.0
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "プロジェクトA", "プロジェクトA\プロジェクトA.csproj", "{A162D5F2-E146-48BC-B54C-FDE760F74AB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CB04E4D-53F4-46DD-9ACE-994F7AB9DD34}"
+	ProjectSection(SolutionItems) = postProject
+		Ranorex = .\Ranorex.rxsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "プロジェクトB", "プロジェクトB\プロジェクトB.csproj", "{3519E7E9-32C0-419E-A010-B583259B76DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "プロジェクトC", "プロジェクトC\プロジェクトC.csproj", "{A3720F44-0687-4540-9628-546364567C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A162D5F2-E146-48BC-B54C-FDE760F74AB8}.Debug|x86.Build.0 = Debug|x86
+		{A162D5F2-E146-48BC-B54C-FDE760F74AB8}.Debug|x86.ActiveCfg = Debug|x86
+		{A162D5F2-E146-48BC-B54C-FDE760F74AB8}.Release|x86.Build.0 = Release|x86
+		{A162D5F2-E146-48BC-B54C-FDE760F74AB8}.Release|x86.ActiveCfg = Release|x86
+		{3519E7E9-32C0-419E-A010-B583259B76DC}.Debug|x86.Build.0 = Debug|x86
+		{3519E7E9-32C0-419E-A010-B583259B76DC}.Debug|x86.ActiveCfg = Debug|x86
+		{3519E7E9-32C0-419E-A010-B583259B76DC}.Release|x86.Build.0 = Release|x86
+		{3519E7E9-32C0-419E-A010-B583259B76DC}.Release|x86.ActiveCfg = Release|x86
+		{A3720F44-0687-4540-9628-546364567C73}.Debug|x86.Build.0 = Debug|x86
+		{A3720F44-0687-4540-9628-546364567C73}.Debug|x86.ActiveCfg = Debug|x86
+		{A3720F44-0687-4540-9628-546364567C73}.Release|x86.Build.0 = Release|x86
+		{A3720F44-0687-4540-9628-546364567C73}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

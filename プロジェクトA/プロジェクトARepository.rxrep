@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="プロジェクトARepository"
+id="6a368a0a-363e-4807-beea-fc5c4f0e8e0b">
+  <codegen
+  classname="プロジェクトARepository"
+  namespace="プロジェクトA"/>
+  <rootfolder
+  name="Root"
+  id="e7bb9fa1-4437-4d8f-ac9a-9d8f93263114"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
